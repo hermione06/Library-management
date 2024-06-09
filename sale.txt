@@ -1,0 +1,18 @@
+The_Goldfinch                 Donna_Tartt                   Fiction             14.99             3
+
+The_Book_Thief                Markus_Zusak                  Fiction-historical  8.99             5
+
+Game_Of_Thrones               George_RR_Martin              Fantasy             15.99             3
+
+The_Road_Less_Traveled        M._Scott_Peck                 Self-help           9.99             2
+
+Born_A_Crime                  Trevor_Noah                   Fiction             12.50             4
+
+The_Testaments                Margaret_Atwood               Fiction             14.99             5
+
+Big_Little_Lies               Liane_Moriarty                Mystery             12.75              8
+
+Born_To_Run                   Bruce_Springsteen             Auto-biography      12.25              4
+
+
+The_Picture_Of_Dorian_Gray    Oscar_Wilde                   Classic             8.50             86
