@@ -1,5 +1,5 @@
 /*-----------------------Library:Book Management----------------*/
-/*Team Members: Jafarzade Madina, Asiman Ismayilova, Alizada Fidan, Farid Afandiyev, Kamran Guliyev */
+
 #include <stdio.h>
 #include <string.h>
 #include<stdbool.h>
