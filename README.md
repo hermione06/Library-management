@@ -12,4 +12,14 @@ Databases:
 
 * ‘rent.txt’ file - Like 'sale.txt', but for rented books. It keeps track of borrowed books, rental days, quantities aiding in inventory management for libraries and rental services.
 
-
+Functionality:
+--------------
+This code contains following functionalities:
+* Displaying the library 
+* Searching a book 
+* Updating book details 
+* Sales management 
+* Rental of the books management
+* Returning the books 
+* Displaying the reports
+* Deleting the book
