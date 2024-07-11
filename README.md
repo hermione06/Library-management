@@ -23,3 +23,7 @@ This code contains following functionalities:
 * Returning the books 
 * Displaying the reports
 * Deleting the book
+
+Contributors:
+-------------
+Fidan Alizada, Madina Jafarzade, Kamran Guliyev, Farid Afandiyev
